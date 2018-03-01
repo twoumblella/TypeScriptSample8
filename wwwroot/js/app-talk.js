@@ -10,7 +10,7 @@ var App;
                 return "Welcome back!";
             }
             else {
-                return "Hello World!";
+                return "Hello World";
             }
         };
         return Talk;
