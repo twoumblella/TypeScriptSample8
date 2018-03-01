@@ -6,7 +6,7 @@ namespace App {
                 return "Welcome back!";
             }
             else {
-                return "Welcome!";
+                return "Hello World!";
             }
         }
     }
